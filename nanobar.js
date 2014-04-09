@@ -151,3 +151,6 @@ var Nanobar = (function () {
 
 	return Nanobar;
 })();
+
+
+module.exports = Nanobar;
